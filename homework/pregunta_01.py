@@ -2,10 +2,6 @@
 Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 """
 
-# pylint: disable=import-outside-toplevel
-
-import pandas as pd
-
 import pandas as pd
 
 def pregunta_01():
